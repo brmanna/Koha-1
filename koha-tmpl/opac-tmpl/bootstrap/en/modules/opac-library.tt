@@ -158,6 +158,7 @@
             </div> <!-- /.col -->
         </div> <!-- /.row -->
     </div> <!-- /.container-fluid -->
+<div>
 </div> <!-- / .main -->
 
 [% INCLUDE 'opac-bottom.inc' %]
